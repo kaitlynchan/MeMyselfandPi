@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("http://fonts.googleapis.com/css?family=Pompiere|Cormorant+Garamond");
 @import url("font-awesome.min.css");
 
 /*
@@ -750,8 +750,8 @@
 		background-image: url("https://s-media-cache-ak0.pinimg.com/736x/d7/a9/b0/d7a9b0181692c8dbe952c70729cd329b.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-weight: 300;
+		font-family: 'Pompiere', sans-serif;
+		font-weight: 00;
 		color: #777777;
 	}
 
@@ -767,7 +767,7 @@
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Pompiere', sans-serif;
 		font-weight: 300;
 		color: #777777;
 	}
@@ -1150,7 +1150,7 @@
 				min-height: 100%;
 				overflow-y: scroll;
 				background-attachment: fixed;
-				font-size: 14pt;
+				font-size: 54pt;
 				line-height: 1.75em;
 			}
 
@@ -1160,18 +1160,22 @@
 			}
 
 			h1 {
-				font-size: 2.4em;
+				font-size: 3.4em;
 				letter-spacing: -0.015em;
 			}
 
 			h2 {
-				font-size: 1.8em;
+				font-size: 2.8em;
 				letter-spacing: -0.015em;
 			}
 
 			h3, h4, h5, h6 {
-				font-size: 1.25em;
+				font-size: 1.95em;
 				letter-spacing: -0.015em;
+			}
+
+			p{
+				font-size: 1.2em;
 			}
 
 		/* Section/Article */
