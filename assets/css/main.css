@@ -779,6 +779,13 @@
 		color: #363636;
 	}
 
+	a:link{ color:#778899;
+	}
+	a:hover{ color:green;
+	}
+	a:visited{ color:hotpink;
+	}
+
 	blockquote {
 		border-left: solid 0.5em #ddd;
 		padding: 1em 0 1em 2em;
